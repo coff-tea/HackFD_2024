@@ -5,8 +5,8 @@ Web/phone compatible app that allows for streamlined reporting of incidents that
 
 # Getting Started
 ## Files
-- `CCIR_SIR_App.msapp` PowerApp file
-- `CCIR_SIR_App.pdf` PDF diagram of app progression
+- `CCIR_SIR_App_v1.msapp` PowerApp file
+- `/Info/` Directory with further information
 - `databases.xlsx` Excel sheet used for connections
 
 ## Upload and use app through Office365
@@ -18,7 +18,3 @@ Upload .xlsx file to OneDrive. In the PowerApp, "Add Data" > "OneDrive" / "OneDr
 
 ### Step 3: Run and test
 The .xlsx file cannot be open when attempting to create/edit reports. 
-
-# Current functionalities
-## SCREEN: SelectUser
-Home page.
